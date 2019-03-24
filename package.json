@@ -1,0 +1,19 @@
+{
+  "name": "ts-google-api-oauth2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "google-auth-library": "^3.1.1",
+    "opn": "^5.5.0",
+    "server-destroy": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.4",
+    "@types/opn": "^5.1.0",
+    "@types/server-destroy": "^1.0.0",
+    "parcel-bundler": "^1.12.3",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.4000"
+  }
+}
